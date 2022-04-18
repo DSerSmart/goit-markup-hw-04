@@ -227,6 +227,7 @@ link {
   cursor: pointer;
   margin: 0 auto;
   border: 0px;
+  border-radius: 4px;
 }
 .hero-button:hover,
 .hero-button:focus {
@@ -538,6 +539,8 @@ fill:var(--primeri-wite-color);
   color: var(--title-text-color);
   cursor: pointer;
   padding: 6px 22px;
+  border: 0px;
+  border-radius: 4px;
 }
 .nav {
   margin-bottom: 56px;
